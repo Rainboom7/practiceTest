@@ -1,4 +1,4 @@
 # practiceTest
 This is readme
-dont read me
+i do
 Why?
